@@ -1,3 +1,3 @@
 # rock-paper-scissors-python
-Day 4 - Treasure Island by Python.<br>
+Day 4 - Rock Paper Scissors by Python.<br>
 100 Days of Python Projects.
